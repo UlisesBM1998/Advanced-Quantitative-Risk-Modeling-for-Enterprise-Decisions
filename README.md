@@ -1,4 +1,4 @@
-Five end-to-end risk analytics projects in Python, each built around a real business situations and quantified empirical conclusions. Together they show how statistics and actuarial methods turn data into decisions. Tools: pandas, scikit-learn, statsmodels, SciPy, pyspark, SQL.
+Five end-to-end risk analytics projects in Python, each built around a real business situations and quantified empirical conclusions. Together they show how statistics and actuarial methods turn data into decisions. Tools: pandas, NumPy, Matplotlib, Seaborn, SciPy, lifelines, statsmodels, XGBoost, SQLAlchemy, PySpark.
 
 🎯 **Credit Risk & Decision Optimization:** Default-prediction pipeline with logistic regression, Expected Credit Loss (PD × LGD × EAD), approval-threshold optimization, and scenario stress testing. The model reaches 0.955 AUC with 87% recall on defaults, and a 3-feature version (interest rate, debt-to-income, income) still holds 0.902. Expected loss on $30.6M of exposure is $6.15M (20.1%) in the base case and rises 72% to $10.6M under a severe downturn.
 
